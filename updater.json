@@ -1,0 +1,8 @@
+{
+  "last_update": "18-07-2025",
+  "repository": "zulus123/tc2-bbs-mesh-homeassistant",
+  "slug": "gitea",
+  "source": "github",
+  "upstream_repo": "go-gitea/gitea",
+  "upstream_version": "1.24.3"
+}
